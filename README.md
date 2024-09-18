@@ -43,6 +43,9 @@
 ### İLETİŞİM SAYFASI
 ![İletişim](https://github.com/user-attachments/assets/4c855b39-84f7-4735-923b-73ba14f9675d)
 
+### ÖDEME SAYFASI
+![payment](https://github.com/user-attachments/assets/6cdd2e01-57c4-4ff3-96f6-37f4dc5ca5d9)
+
 ### LOGIN REGISTER SAYFASI  
 ![Login register](https://github.com/user-attachments/assets/3f1ce716-3de1-4c2f-8ccf-1ee38c4fcf91)
 
